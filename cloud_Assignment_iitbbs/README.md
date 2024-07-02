@@ -1,11 +1,5 @@
 ## This Assignement is done on linux (ubuntu)
 
-## done by
-
--Harinadh sivaramakrishna 23CS06014 M.Tech
--shanmuka sharma 23CS06012 M.Tech
--Ritwik Raghav A23CS09001 P.h.D
-
 ## compiling command
 
 - g++ -o lam1 lam1.cpp -lpthread -lboost_system -lboost_thread (lets say this for system 1)
